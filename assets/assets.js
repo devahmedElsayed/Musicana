@@ -41,11 +41,11 @@ import img16 from './img16.jpg'
 import song1 from  './song1.mp3'
 import song2 from  './song2.mp3'
 import song3 from  './song3.mp3'
-import song4 from  './song3.mp3'
-import song5 from  './song3.mp3'
-import song6 from  './song3.mp3'
-import song7 from  './song3.mp3'
-import song8 from  './song3.mp3'
+import song4 from  './song4.mp3'
+import song5 from  './song5.mp3'
+import song6 from  './song6.mp3'
+import song7 from  './song7.mp3'
+import song8 from  './song8.mp3'
 
 export const assets = {
     bell_icon,
@@ -84,14 +84,14 @@ export const albumsData = [
     },
     {   
         id:1,
-        name: "Top 50 India",
+        name: "Top 50 Egypt",
         image: img9,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#22543d"
     },
     {   
         id:2,
-        name: "Trending India",
+        name: "Trending Egypt",
         image: img10,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#742a2a"
